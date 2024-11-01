@@ -1,0 +1,9 @@
+@font-face {
+  font-family: ProtestStrike;
+  src: url(/src/styles/fonts/ProtestStrike-Regular.ttf);
+}
+.title {
+  font-size: 5rem;
+  color: cornflowerblue;
+  font-family: ProtestStrike;
+}
