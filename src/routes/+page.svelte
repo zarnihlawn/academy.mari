@@ -1,4 +1,4 @@
-
+<!-- 
 <script>
   // console.log
   console.log("Hello Word");
@@ -71,7 +71,7 @@
   }
   while (t < 10);
   
-</script>
+</script> -->
 
 <h1>This is the first collab web</h1>
 
